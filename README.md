@@ -1,4 +1,4 @@
-# Classify
+# Ozarion Classified Website(Classify)
 
 This is a classified advertisement website built with Ruby on Rails.
 
