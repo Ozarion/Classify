@@ -4,8 +4,10 @@ Pull requests are welcome but please first discuss the change you wish to make v
 
 Please note we have a [code of conduct](https://github.com/Ozarion/Classify/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
-## **Pull Request Process**
+## **Issue**
 
-+ Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-+ Update the README.md with details of changes to the interface.
-+ You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
+Ensure the bug was not already reported by searching on GitHub under issues. If you're unable to find an open issue addressing the bug, open a new issue and write detailed imformation about the issue.
+
+## **Pull Request**
+
+Ensure the PR description clearly describes the problem and solution.
