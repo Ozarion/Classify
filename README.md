@@ -16,7 +16,7 @@ This is a classified advertisement website built with Ruby on Rails.
 
 # Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/Ozarion/Classify/blob/master/CONTRIBUTING>md) for details on contributing to this repository, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Ozarion/Classify/blob/master/CONTRIBUTING.md) for details on contributing to this repository, and the process for submitting pull requests to us.
 
 # License
 
